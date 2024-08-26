@@ -6,10 +6,10 @@
   <br>
   <div class="body" align=center>
     <p href="https://github.com/s0me1newithhand7s">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=s0me1newithhand7s&show_icons=true&theme=transparent)"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=s0me1newithhand7s&show_icons=true&theme=transparent"/>
     </p>
     <p href="https://github.com/s0me1newithhand7s">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0me1newithhand7s&layout=compact&theme=transparent)"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0me1newithhand7s&show_icons=true&layout=compact&theme=transparent"/>
     </p>
   </div>
 </body>
