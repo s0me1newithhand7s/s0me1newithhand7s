@@ -1,9 +1,15 @@
 <body>
   <h1 align=center>OSS Enthusiast 🎩</h1>
   <div class="head" align=center>
-    <h3>Hi 👋, </h3>
-    <p>my name is <b>hands</b> (stylized as hand7s).</p>
-    <h3>Welcome to my github page.</h3>
+    <h3>
+      Hi 👋, 
+    </h3>
+    <p>
+      my name is <b>hands</b> (stylized as hand7s).
+    </p>
+    <h3>
+      Welcome to my github page.
+    </h3>
   </div>
   <br>
   <div class="body" align=center>
