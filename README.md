@@ -8,8 +8,9 @@
       my name is <b>hands</b> (stylized as hand7s).
     </p>
     <h3>
-      Welcome to my github page.
-    </h3>
+
+  Welcome to my github page. You can find hy h/w information [here](https://github.com/s0me1newithhand7s/s0me1newithhand7s/blob/main/HW.md). 
+  </h3>
   </div>
   <br>
   <div class="body" align=center>
