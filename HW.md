@@ -11,6 +11,7 @@
 | DRIVE | Ardor Gaming Ally 256GB |
 | PSU | Corsair RM850 |
 | CASE | Montech AIR 100 Lite |
+| OS | NixOS Unstable |
 
 <div class="text">
   <p>
@@ -31,6 +32,7 @@
 | DRIVE | Seagate HDD 240GB |
 | PSU | - |
 | CASE | ThinkPad X220 12.5" |
+| OS | NixOS Unstable |
 
 <div class="text">
   <p>
