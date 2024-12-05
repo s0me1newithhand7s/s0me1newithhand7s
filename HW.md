@@ -26,12 +26,12 @@
 | - | - |
 | CPU | Intel Core i5-2357M  |
 | RAM | Samsung DDR3L SO-DIMM 4x2 (8GB) | 
-| MOBO | - |
-| GPU | Integrated |
-| COOLER | - |
+| MOBO | Lenovo ThinkPad X220 |
+| GPU | Intel HD Graphics 3000 |
+| COOLER | Plate Design |
 | DRIVE | Seagate HDD 240GB |
 | PSU | - |
-| CASE | ThinkPad X220 12.5" |
+| CASE | Lenovo ThinkPad X220 12.5" |
 | OS | NixOS Unstable |
 
 <div class="text">
