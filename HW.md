@@ -20,7 +20,7 @@
 </div>
 
 
-<h1 align=center> :two: s0meth1ck-nix  </h1>
+<h1 align=center> :two: s0melapt0p-nix  </h1>
 
 | Table | Content |
 | - | - |
