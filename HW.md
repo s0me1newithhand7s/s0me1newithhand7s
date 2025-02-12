@@ -8,7 +8,7 @@
 | MOBO | Gigabyte B450 Aorus M (rev 1.0) |
 | GPU | AMD Radeon Gigabyte GAMING OC RX 5700XT |
 | COOLER | Jonsbo CR-1000 v2 PRO |
-| DRIVE | Ardor Gaming Ally 256GB |
+| DRIVE | Kingston KC3000 1024GB |
 | PSU | Corsair RM850 |
 | CASE | Montech AIR 100 Lite |
 | OS | NixOS Unstable |
