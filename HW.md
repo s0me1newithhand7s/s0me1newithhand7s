@@ -29,7 +29,7 @@
 | MOBO | Lenovo ThinkPad X220 |
 | GPU | Intel HD Graphics 3000 |
 | COOLER | Plate Design |
-| DRIVE | Seagate HDD 240GB |
+| DRIVE | Cruical BX500 480GB |
 | PSU | - |
 | CASE | Lenovo ThinkPad X220 12.5" |
 | OS | NixOS Unstable |
