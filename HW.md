@@ -29,7 +29,7 @@
 | MOBO | Lenovo ThinkPad X220 |
 | GPU | Intel HD Graphics 3000 |
 | COOLER | Plate Design |
-| DRIVE | Seagate HDD 240GB |
+| DRIVE | Cruical BX500 480GB |
 | PSU | - |
 | CASE | Lenovo ThinkPad X220 12.5" |
 | OS | NixOS Unstable |
@@ -46,7 +46,7 @@
 
 **Microphone**: Maono PD100U (USB)
 
-**Mouse**: Razer Basilisk X Hyperspeed V1 
+**Mouse**: Razer Basilisk X Hyperspeed V1, VGN x VXE Dragonfly R1 SE +
 
 **Keeb**:  Monsgeek M6 (Black) + Akko Creamy Black V3 Pro + GMK Clone WOB 
 
