@@ -46,7 +46,7 @@
 
 **Microphone**: Maono PD100U (USB)
 
-**Mouse**: Razer Basilisk X Hyperspeed V1 
+**Mouse**: Razer Basilisk X Hyperspeed V1, VGN x VXE Dragonfly R1 SE +
 
 **Keeb**:  Monsgeek M6 (Black) + Akko Creamy Black V3 Pro + GMK Clone WOB 
 
