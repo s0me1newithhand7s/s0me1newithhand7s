@@ -50,7 +50,7 @@
 
 **Keeb**:  Monsgeek M6 (Black) + Akko Creamy Black V3 Pro + GMK Clone WOB 
 
-**IEMs**: Moondrop Chu II
+**IEMs**: Truthear x Crinacle Zero: Blue 2
 
 **DAC**: FiiO BTR3 (Red)
 
