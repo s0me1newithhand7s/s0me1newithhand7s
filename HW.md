@@ -3,7 +3,7 @@
 
 | Table | Content |
 | - | - |
-| CPU | AMD Ryzen 5 5700X |
+| CPU | AMD Ryzen 7 5700X |
 | RAM | G.Skill Trident Z RGB 16x2 (32GB) | 
 | MOBO | Gigabyte B450 Aorus M (rev 1.0) |
 | GPU | AMD Radeon Gigabyte GAMING OC RX 5700XT |
