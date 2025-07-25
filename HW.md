@@ -52,7 +52,7 @@
 
 **IEMs**: Truthear x Crinacle Zero: Blue 2
 
-**DAC**: FiiO BTR3 (Red)
+**DAC**: FiiO BTR3 (Red) + Truthear Shio 
 
 **Tablet**: Wacom CTL-472
 
