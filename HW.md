@@ -40,27 +40,54 @@
   </p>
 </div>
 
+<h1 align=center> :three: s0meMiniPC-nix (1)  </h1>
+
+| Table | Content |
+| - | - |
+| CPU | Intel Core Processor n95  |
+| RAM | DDR4 SO-DIMM 1x8 (8GB) | 
+| MOBO | SOYO M4 Air |
+| GPU | Intel UHD Graphics 710 |
+| COOLER | Plate Design |
+| DRIVE | Chinese mSATA SSD on m.2 |
+| PSU | - |
+| CASE | SOYO M4 Air |
+| OS | NixOS Unstable |
+
+<div class="text">
+  <p>
+    one of three nodes btw
+  </p>
+
 <h2 align=center> ✨ Devices  </h2>
 
 **Monitor**: ARDOR GAMING AURORA AQ27H3 (QHD VA 27" 165Hz) 
 
-**Microphone**: Maono PD100U (USB)
+**Microphone**: Maono PD100U (USB) on a Fifine BM63
 
 **Mouse**: Razer Basilisk X Hyperspeed V1, VGN x VXE Dragonfly R1 SE +
 
 **Keeb**:  Monsgeek M6 (Black) + Akko Creamy Black V3 Pro + GMK Clone WOB 
 
-**IEMs**: Truthear x Crinacle Zero: Blue 2
+**IEMs**: Truthear x Crinacle Zero: Blue 2, Truthear Gate
 
-**DAC**: FiiO BTR3 (Red) + Truthear Shio 
+**TWS**: CMF by Nothing Buds 2a
+
+**DAC**: FiiO BTR3 (Red), Truthear Shio
 
 **Tablet**: Wacom CTL-472
+
+**Gamepad**: Flydigi Dune Fox
 
 **MacroPad**: SimPad w/ Durock Dolphin Linear Silent (Lubed)
 
 **Guitar**: Branher EG-400/MRD SSH (Red)
 
+**Router**: Cudy TR30 (OWRT), Cudy TR1200 (OWRT), Cudy WR1200e + Cudy GS105D Dumb Switch
+
+**Modem**: Fibocom L850 in a Vertell LONG case
+
 <hr/>
 
 
-mirror of a [pastebin](https://pastebin.com/raw/kRSBxh3W)
+~~mirror of a [pastebin](https://pastebin.com/raw/kRSBxh3W)~~ moved
