@@ -77,7 +77,7 @@
 
 **Tablet**: Wacom CTL-472
 
-**Gamepad**: Flydigi Dune Fox
+**Gamepad**: Flydigi Dune Fox, Flydigi Vader 4 Pro, Gamesir X5 Lite ZZZ Collab
 
 **MacroPad**: SimPad w/ Durock Dolphin Linear Silent (Lubed)
 
