@@ -65,11 +65,11 @@
 
 **Microphone**: Maono PD100U (USB) on a Fifine BM63
 
-**Mouse**: Razer Basilisk X Hyperspeed V1, VGN x VXE Dragonfly R1 SE +
+**Mouse**: Razer Basilisk X Hyperspeed V1, VGN x VXE Dragonfly R1 SE+
 
-**Keeb**:  Monsgeek M6 (Black) + Akko Creamy Black V3 Pro + GMK Clone WOB 
+**Keeb**:  Monsgeek M6 (Black) + Akko Creamy Black V3 Pro + GMK Clone WOB, FGG Madlions MAD60HE
 
-**IEMs**: Truthear x Crinacle Zero: Blue 2, Truthear Gate
+**IEMs**: Truthear x Crinacle Zero: Blue 2, Truthear Gate, Truthear Nova, Truthear Pure
 
 **TWS**: CMF by Nothing Buds 2a
 
@@ -79,13 +79,13 @@
 
 **Gamepad**: Flydigi Dune Fox, Flydigi Vader 4 Pro, Gamesir X5 Lite ZZZ Collab
 
-**MacroPad**: SimPad w/ Durock Dolphin Linear Silent (Lubed)
-
 **Guitar**: Branher EG-400/MRD SSH (Red)
 
 **Router**: Cudy TR30 (OWRT), Cudy TR1200 (OWRT), Cudy WR1200e + Cudy GS105D Dumb Switch
 
 **Modem**: Fibocom L850 in a Vertell LONG case
+
+**Phone**: Nothing Phone 3(a) 8/128 Black
 
 <hr/>
 
