@@ -10,7 +10,7 @@ languages of choice:
 <hr/>
 
 > [!TIP]
-> h/w table [here](https://github.com/s0me1newithhand7s/s0me1newithhand7s/blob/main/HW.md).
+> h/w table [here](./HW.md).
 
 <hr/>
 
