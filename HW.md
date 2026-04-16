@@ -73,11 +73,11 @@
 
 **TWS**: CMF by Nothing Buds 2a
 
-**DAC**: FiiO BTR3 (Red), Truthear Shio
+**DAC**: FiiO BTR3 (Red), Truthear Shio, TRN TE
 
 **Tablet**: Wacom CTL-472
 
-**Gamepad**: Flydigi Dune Fox, Flydigi Vader 4 Pro, Gamesir X5 Lite ZZZ Collab
+**Gamepad**: Flydigi Dune Fox, Flydigi Vader 4 Pro, Gamesir X5 Lite Zenless Zone Zero Edition (Black)
 
 **Guitar**: Branher EG-400/MRD SSH (Red)
 

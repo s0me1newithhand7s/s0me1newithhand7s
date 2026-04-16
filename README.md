@@ -5,7 +5,6 @@ dev / package maintainer.
 
 languages of choice:
 - Nix <img src="https://github.com/user-attachments/assets/5f064ed3-b558-426d-afef-d33940636c9d" width="12">; intermediate level 
-- Rust <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" width="12">; entry level
 
 <hr/>
 
