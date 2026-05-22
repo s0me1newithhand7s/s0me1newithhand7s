@@ -1,46 +1,32 @@
 
-<h1 align=center> :one: s0mePC-nix  </h1>
+<h1 align=center> :one: ada  </h1>
 
 | Table | Content |
 | - | - |
 | CPU | AMD Ryzen 7 5700X |
 | RAM | G.Skill Trident Z RGB 16x2 (32GB) | 
 | MOBO | Gigabyte B450 Aorus M (rev 1.0) |
-| GPU | AMD Radeon Gigabyte GAMING OC RX 5700XT |
+| GPU | AMD Radeon PowerColor RX 9060 XT Hellhound 16GB |
 | COOLER | Jonsbo CR-1000 v2 PRO |
 | DRIVE | Kingston KC3000 1024GB |
 | PSU | Corsair RM850 |
 | CASE | Montech AIR 100 Lite |
 | OS | NixOS Unstable |
 
-<div class="text">
-  <p>
-    basically my main working machine. i kinda regret buying 5700XT, bc i moved to a qhd monitor..
-  </p>
-</div>
 
+<h1 align=center> :two: isla  </h1>
 
-<h1 align=center> :two: s0melapt0p-nix  </h1>
-
-| Table | Content |
+| Table | Content | 
 | - | - |
-| CPU | Intel Core i5-2357M  |
-| RAM | Samsung DDR3L SO-DIMM 4x2 (8GB) | 
-| MOBO | Lenovo ThinkPad X220 |
-| GPU | Intel HD Graphics 3000 |
-| COOLER | Plate Design |
-| DRIVE | Cruical BX500 480GB |
-| PSU | - |
-| CASE | Lenovo ThinkPad X220 12.5" |
-| OS | NixOS Unstable |
+| NaN | NaN |
 
 <div class="text">
   <p>
-    funny thing, but so <b>thick</b> :D
+    for now - gone.
   </p>
 </div>
 
-<h1 align=center> :three: s0meMiniPC-nix (1)  </h1>
+<h1 align=center> :three: viola  </h1>
 
 | Table | Content |
 | - | - |
@@ -54,18 +40,13 @@
 | CASE | SOYO M4 Air |
 | OS | NixOS Unstable |
 
-<div class="text">
-  <p>
-    one of three nodes btw
-  </p>
-
 <h2 align=center> ✨ Devices  </h2>
 
 **Monitor**: ARDOR GAMING AURORA AQ27H3 (QHD VA 27" 165Hz) 
 
 **Microphone**: Maono PD100U (USB) on a Fifine BM63
 
-**Mouse**: Razer Basilisk X Hyperspeed V1, VGN x VXE Dragonfly R1 SE+
+**Mouse**: ATK F1 V2 Ultimate, Razer Basilisk X Hyperspeed V1, VXE Dragonfly R1 SE+
 
 **Keeb**:  Monsgeek M6 (Black) + Akko Creamy Black V3 Pro + GMK Clone WOB, FGG Madlions MAD60HE
 
