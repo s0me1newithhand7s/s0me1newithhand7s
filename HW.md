@@ -42,11 +42,13 @@
 
 <h2 align=center> ✨ Devices  </h2>
 
-**Monitor**: ARDOR GAMING AURORA AQ27H3 (QHD VA 27" 165Hz) 
+**Monitors**: ARDOR GAMING AURORA AQ27H3 (QHD VA 27" 165Hz) on Onkron G80 (White), ARDOR GAMING PORTAL AF24H1 (FHD IPS 24" 180Hz) on NB F80 (Black)
 
 **Microphone**: Maono PD100U (USB) on a Fifine BM63
 
 **Mouse**: ATK F1 V2 Ultimate, Razer Basilisk X Hyperspeed V1, VXE Dragonfly R1 SE+
+
+**Mousepads**: ARDOR GAMING KATANA (M + XL), ARDOR GAMING GLASS ASIA (L)
 
 **Keeb**:  Monsgeek M6 (Black) + Akko Creamy Black V3 Pro + GMK Clone WOB, FGG Madlions MAD60HE
 
