@@ -72,5 +72,8 @@
 
 <hr/>
 
+<img width="4080" height="3072" alt="https://hand7s.t.me" src="https://github.com/user-attachments/assets/26e09217-21c1-41ab-b672-80603b954134" />
+
+<hr/>
 
 ~~mirror of a [pastebin](https://pastebin.com/raw/kRSBxh3W)~~ moved
