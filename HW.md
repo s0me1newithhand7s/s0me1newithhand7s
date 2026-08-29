@@ -22,7 +22,7 @@
 
 <div class="text">
   <p>
-    for now - gone.
+    awaiting to be replaced by newer hardware.
   </p>
 </div>
 
@@ -46,7 +46,7 @@
 
 **Microphone**: Maono PD100U (USB) on a Fifine BM63
 
-**Mouse**: ATK F1 V2 Ultimate, Razer Basilisk X Hyperspeed V1, VXE Dragonfly R1 SE+
+**Mouse**: ATK F1 V2 Ultimate, Razer Basilisk X Hyperspeed V1
 
 **Mousepads**: ARDOR GAMING KATANA (M + XL), ARDOR GAMING GLASS ASIA (L)
 
@@ -60,19 +60,22 @@
 
 **Tablet**: Wacom CTL-472
 
-**Gamepad**: Flydigi Dune Fox, Flydigi Vader 4 Pro, Gamesir X5 Lite Zenless Zone Zero Edition (Black)
+**Gamepad**: Flydigi Vader 4 Pro, Gamesir X5 Lite Zenless Zone Zero Edition (Black)
 
 **Guitar**: Branher EG-400/MRD SSH (Red)
 
-**Router**: Cudy TR30 (OWRT), Cudy TR1200 (OWRT), Cudy WR1200e + Cudy GS105D Dumb Switch
+**Router**: Cudy TR30 (OWRT), Cudy TR1200 (OWRT), Cudy GS108 Dumb Switch
 
 **Modem**: Fibocom L850 in a Vertell LONG case
 
 **Phone**: Nothing Phone 3(a) 8/128 Black
 
+**Laptop**: ThinkPad X220 w/ i5-2547M, 2x 4GB DDR3L 1066Mhz, finix (os)
+
 <hr/>
 
-<img width="4080" height="3072" alt="https://hand7s.t.me" src="https://github.com/user-attachments/assets/26e09217-21c1-41ab-b672-80603b954134" />
+<img width="1920" height="1440" alt="https://hand7s.t.me"  src="https://github.com/user-attachments/assets/2fa2b133-a4ce-41e4-ad10-ff5e80ca9ec7" />
+
 
 <hr/>
 
