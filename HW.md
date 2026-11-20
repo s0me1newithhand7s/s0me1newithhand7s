@@ -4,9 +4,9 @@
 | Table | Content |
 | - | - |
 | CPU | AMD Ryzen 7 5700X |
-| RAM | G.Skill Trident Z RGB 16x2 (32GB) | 
+| RAM | - | 
 | MOBO | Gigabyte B450 Aorus M (rev 1.0) |
-| GPU | AMD Radeon PowerColor RX 9060 XT Hellhound 16GB |
+| GPU | - |
 | COOLER | Jonsbo CR-1000 v2 PRO |
 | DRIVE | Kingston KC3000 1024GB |
 | PSU | Corsair RM850 |
@@ -42,11 +42,11 @@
 
 <h2 align=center> ✨ Devices  </h2>
 
-**Monitors**: ARDOR GAMING AURORA AQ27H3 (QHD VA 27" 165Hz) on Onkron G80 (White), ARDOR GAMING PORTAL AF24H1 (FHD IPS 24" 180Hz) on NB F80 (Black)
+**Monitors**: - on Onkron G80 (White), - on NB F80 (Black)
 
 **Microphone**: Maono PD100U (USB) on a Fifine BM63
 
-**Mouse**: ATK F1 V2 Ultimate, Razer Basilisk X Hyperspeed V1
+**Mouse**: ATK F1 V2 Ultimate, Razer Basilisk X Hyperspeed V1, ATK Z1 V2 Ultimate
 
 **Mousepads**: ARDOR GAMING KATANA (M + XL), ARDOR GAMING GLASS ASIA (L)
 
@@ -56,7 +56,7 @@
 
 **TWS**: CMF by Nothing Buds 2a
 
-**DAC**: FiiO BTR3 (Red), Truthear Shio, TRN TE
+**DAC**: Truthear Shio, TRN TE
 
 **Tablet**: Wacom CTL-472
 
